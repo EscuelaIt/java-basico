@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"es.edu.escuela_it.java_basico.jornada_2","c":"Comentarios","l":"Comentarios()","url":"%3Cinit%3E()"},{"p":"es.edu.escuela_it.java_basico.jornada_2","c":"Comentarios","l":"main(String[])","url":"main(java.lang.String[])"}]
