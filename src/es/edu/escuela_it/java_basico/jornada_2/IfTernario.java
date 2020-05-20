@@ -8,6 +8,7 @@ public class IfTernario {
 
 		String tipo = (edad > 18) ? "mayor" : "menor";
 
+		System.out.println(tipo);
 		
 		
 	}

@@ -18,8 +18,6 @@ public class Comentarios {
 	 */
 	public static void main(String[] args) {
 		
-		String a;
-		
 		//Formula cocacola
 		
 		/*
@@ -29,8 +27,6 @@ public class Comentarios {
 		 * 
 		 * 
 		 */
-		
-		int i = 3 / 4 * 7;
 		
 				
 	}
